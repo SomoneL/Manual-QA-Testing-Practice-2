@@ -3,9 +3,9 @@ Conducted Smoke Testing, Integration Testing, and System Testing on 3 different 
 
 Three applications used:
 
-Website: www.travelguzs.com
-Website: www.demoblaze.com
-Salesforce Application: Budget Bestie
+1. Website: www.travelguzs.com
+2. Website: www.demoblaze.com
+3. Salesforce Application: Budget Bestie
 
 
 
